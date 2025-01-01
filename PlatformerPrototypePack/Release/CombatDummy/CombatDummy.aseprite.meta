@@ -1,0 +1,669 @@
+fileFormatVersion: 2
+guid: 208a512d551290a48b35512d1abb0d2b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: CombatDummy_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 42
+      width: 12
+      height: 30
+    spriteID: cabb632f2b1761b4a8ccc01f762d842f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 42}
+  - name: CombatDummy_Frame_1
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 14
+      height: 30
+    spriteID: eca42cb7b50aae24e9aa4122c16264d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 156}
+  - name: CombatDummy_Frame_2
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 14
+      height: 30
+    spriteID: 5439d4b225ef8124dac8a72853a1435a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+  - name: CombatDummy_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 80
+      width: 12
+      height: 30
+    spriteID: 3725484c8506deb499db92d0b379162a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 80}
+  - name: CombatDummy_Frame_4
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 156
+      width: 13
+      height: 30
+    spriteID: 7b8a99a1830bcaf4087071fcf13a184f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 156}
+  - name: CombatDummy_Frame_5
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 17
+      height: 30
+    spriteID: 0fbd420391ac5fe4a8319a96aec7f831
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: CombatDummy_Frame_6
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 17
+      height: 30
+    spriteID: dcde20462273fe24f8940f1447955dd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: CombatDummy_Frame_7
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 4
+      width: 14
+      height: 30
+    spriteID: c867cec7ff2f96043832526f67463c87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 4}
+  - name: CombatDummy_Frame_8
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 194
+      width: 13
+      height: 30
+    spriteID: 33b20b30c39ad9943a6b91da380a8455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 194}
+  - name: CombatDummy_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 118
+      width: 12
+      height: 30
+    spriteID: a92fde50f274c1b4790ee31d521238e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 118}
+  - name: CombatDummy_Frame_10
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 42
+      width: 14
+      height: 30
+    spriteID: 13d242152829fbd45aa5d436eaa082ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 42}
+  - name: CombatDummy_Frame_11
+    originalName: 
+    pivot: {x: 0.64705884, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 17
+      height: 30
+    spriteID: 4938923d7c0931a44b3e4314d5a1a015
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 80}
+  - name: CombatDummy_Frame_12
+    originalName: 
+    pivot: {x: 0.64705884, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 17
+      height: 30
+    spriteID: 049d630e08eae4d428c0b814604874b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: CombatDummy_Frame_13
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 80
+      width: 14
+      height: 30
+    spriteID: dac750419f3d56748937ffa5b05818b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 80}
+  - name: CombatDummy_Frame_14
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 118
+      width: 14
+      height: 30
+    spriteID: 6b85efe354944454e920ec8a3203e1e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 118}
+  - name: CombatDummy_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 156
+      width: 12
+      height: 30
+    spriteID: d96d130e44f17994aacafd4000d0e036
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 156}
+  - name: CombatDummy_Frame_16
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 4
+      width: 13
+      height: 30
+    spriteID: 174c8a884e5e4bf49b961a9e6478488f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 4}
+  - name: CombatDummy_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 194
+      width: 12
+      height: 30
+    spriteID: d0815f737fd617f438b946055dd74dad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 194}
+  - name: CombatDummy_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 4
+      width: 12
+      height: 30
+    spriteID: abdc3a005f4c23f42aaf8ca3be3bcf57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 66190806
+    name: CombatDummy
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: CombatDummy_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 16
+        width: 12
+        height: 30
+      spriteId: cabb632f2b1761b4a8ccc01f762d842f
+    - name: CombatDummy_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 16
+        width: 14
+        height: 30
+      spriteId: eca42cb7b50aae24e9aa4122c16264d4
+    - name: CombatDummy_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 16
+        width: 14
+        height: 30
+      spriteId: 5439d4b225ef8124dac8a72853a1435a
+    - name: CombatDummy_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 16
+        width: 12
+        height: 30
+      spriteId: 3725484c8506deb499db92d0b379162a
+    - name: CombatDummy_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 16
+        width: 13
+        height: 30
+      spriteId: 7b8a99a1830bcaf4087071fcf13a184f
+    - name: CombatDummy_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 16
+        width: 17
+        height: 30
+      spriteId: 0fbd420391ac5fe4a8319a96aec7f831
+    - name: CombatDummy_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 16
+        width: 17
+        height: 30
+      spriteId: dcde20462273fe24f8940f1447955dd8
+    - name: CombatDummy_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 10
+        y: 16
+        width: 14
+        height: 30
+      spriteId: c867cec7ff2f96043832526f67463c87
+    - name: CombatDummy_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 16
+        width: 13
+        height: 30
+      spriteId: 33b20b30c39ad9943a6b91da380a8455
+    - name: CombatDummy_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 16
+        width: 12
+        height: 30
+      spriteId: a92fde50f274c1b4790ee31d521238e2
+    - name: CombatDummy_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 16
+        width: 14
+        height: 30
+      spriteId: 13d242152829fbd45aa5d436eaa082ae
+    - name: CombatDummy_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 16
+        width: 17
+        height: 30
+      spriteId: 4938923d7c0931a44b3e4314d5a1a015
+    - name: CombatDummy_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 16
+        width: 17
+        height: 30
+      spriteId: 049d630e08eae4d428c0b814604874b2
+    - name: CombatDummy_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 8
+        y: 16
+        width: 14
+        height: 30
+      spriteId: dac750419f3d56748937ffa5b05818b3
+    - name: CombatDummy_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 16
+        width: 14
+        height: 30
+      spriteId: 6b85efe354944454e920ec8a3203e1e6
+    - name: CombatDummy_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 16
+        width: 12
+        height: 30
+      spriteId: d96d130e44f17994aacafd4000d0e036
+    - name: CombatDummy_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 16
+        width: 13
+        height: 30
+      spriteId: 174c8a884e5e4bf49b961a9e6478488f
+    - name: CombatDummy_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 16
+        width: 12
+        height: 30
+      spriteId: d0815f737fd617f438b946055dd74dad
+    - name: CombatDummy_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 10
+        y: 16
+        width: 12
+        height: 30
+      spriteId: abdc3a005f4c23f42aaf8ca3be3bcf57
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 64}

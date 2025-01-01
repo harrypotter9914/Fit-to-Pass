@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 27fc86d44fb3df948b0e4d559f27f726
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Lever_Frame_0
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 10
+    spriteID: a85ec75d0668b57409380cede5f1fbca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Lever_Frame_1
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 22
+      width: 15
+      height: 10
+    spriteID: eb56017e852e3a84b8e2465e6df2a8d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 22}
+  - name: Lever_Frame_2
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 40
+      width: 15
+      height: 10
+    spriteID: 92409865cfade7f41a9e2d8b52da3e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 40}
+  - name: Lever_Frame_3
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 58
+      width: 15
+      height: 10
+    spriteID: d4fb5b83f830f524ba5937c7a4025f16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 58}
+  - name: Lever_Frame_4
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 15
+      height: 10
+    spriteID: 09d371c38c8933c499521c4e73074181
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: Lever_Frame_5
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 94
+      width: 15
+      height: 10
+    spriteID: 1c83180f4c2268c449d22046c27b8600
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 94}
+  - name: Lever_Frame_6
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 112
+      width: 15
+      height: 10
+    spriteID: 29b620a50b45cc347b5a93005015da7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 112}
+  - name: Lever_Frame_7
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 15
+      height: 10
+    spriteID: 823175f0d3053e244aed9a4e2b762480
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: Lever_Frame_8
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 22
+      width: 15
+      height: 10
+    spriteID: 34c30a9ffc46ee349bfb61e120baa72e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 22}
+  - name: Lever_Frame_9
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 40
+      width: 15
+      height: 10
+    spriteID: af605139c40ac5a41838ff45907501e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 40}
+  - name: Lever_Frame_10
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 58
+      width: 15
+      height: 10
+    spriteID: c28f0cf01f6936846acf22491e3ed69c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 58}
+  - name: Lever_Frame_11
+    originalName: 
+    pivot: {x: 0.53333336, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 76
+      width: 15
+      height: 10
+    spriteID: cd6f77dbe14ffb04fb9f43e5029ff870
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 76}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1827928206
+    name: Lever
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Lever_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: a85ec75d0668b57409380cede5f1fbca
+    - name: Lever_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: eb56017e852e3a84b8e2465e6df2a8d0
+    - name: Lever_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: 92409865cfade7f41a9e2d8b52da3e2f
+    - name: Lever_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: d4fb5b83f830f524ba5937c7a4025f16
+    - name: Lever_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: 09d371c38c8933c499521c4e73074181
+    - name: Lever_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: 1c83180f4c2268c449d22046c27b8600
+    - name: Lever_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: 29b620a50b45cc347b5a93005015da7e
+    - name: Lever_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: 823175f0d3053e244aed9a4e2b762480
+    - name: Lever_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: 34c30a9ffc46ee349bfb61e120baa72e
+    - name: Lever_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: af605139c40ac5a41838ff45907501e1
+    - name: Lever_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: c28f0cf01f6936846acf22491e3ed69c
+    - name: Lever_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 8
+        y: 11
+        width: 15
+        height: 10
+      spriteId: cd6f77dbe14ffb04fb9f43e5029ff870
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

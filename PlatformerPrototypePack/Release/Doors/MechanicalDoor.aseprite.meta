@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 78f9d4e8da21d2348b53c4ceed0e75cf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MechanicalDoor_Frame_0
+    originalName: 
+    pivot: {x: 0.4999999, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 124
+      width: 12
+      height: 52
+    spriteID: 42ad8664046c22648a92e261caa87f12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 124}
+  - name: MechanicalDoor_Frame_1
+    originalName: 
+    pivot: {x: 0.4999999, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 184
+      width: 12
+      height: 52
+    spriteID: c8edab68ff272b441a037265243fe037
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 184}
+  - name: MechanicalDoor_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 4
+      width: 18
+      height: 52
+    spriteID: 3254708ca87978541a96391c075778a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 4}
+  - name: MechanicalDoor_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 64
+      width: 18
+      height: 52
+    spriteID: 895b2900412fc45479eded52a3089108
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 64}
+  - name: MechanicalDoor_Frame_4
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 184
+      width: 28
+      height: 52
+    spriteID: 12371bcdb81df1948b1b800c433b0846
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 184}
+  - name: MechanicalDoor_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 124
+      width: 40
+      height: 52
+    spriteID: b9a7fcf85d49da04d862e21b970e9570
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 124}
+  - name: MechanicalDoor_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 4
+      width: 44
+      height: 52
+    spriteID: 341dc11f025f0fd448eb851e7fe8e4a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 4}
+  - name: MechanicalDoor_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 184
+      width: 46
+      height: 52
+    spriteID: 3a5f418a16c447f40ab3b0696f48a2f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 184}
+  - name: MechanicalDoor_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 124
+      width: 48
+      height: 52
+    spriteID: fa592d2cc53b18547810a2cb1ad2bb9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 124}
+  - name: MechanicalDoor_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 50
+      height: 52
+    spriteID: 96496e31a18551a45adce10e8235c2c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MechanicalDoor_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 64
+      width: 50
+      height: 52
+    spriteID: 9303099b44e64e344a700719935356d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 64}
+  - name: MechanicalDoor_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 64
+      width: 42
+      height: 52
+    spriteID: 2f7c9a2a334ce304da3f2fbd4ed9329b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 64}
+  - name: MechanicalDoor_Frame_12
+    originalName: 
+    pivot: {x: 0.4999999, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 4
+      width: 12
+      height: 52
+    spriteID: 4fdd3256bba71844bbc42b530f0c438c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 4}
+  - name: MechanicalDoor_Frame_13
+    originalName: 
+    pivot: {x: 0.4999999, y: -0.26923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 64
+      width: 12
+      height: 52
+    spriteID: 9b1a4b8f29ebb154f93a6bd7ffc22864
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 64}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 785733001
+    name: MechanicalDoor
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MechanicalDoor_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 34
+        y: 14
+        width: 12
+        height: 52
+      spriteId: 42ad8664046c22648a92e261caa87f12
+    - name: MechanicalDoor_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 34
+        y: 14
+        width: 12
+        height: 52
+      spriteId: c8edab68ff272b441a037265243fe037
+    - name: MechanicalDoor_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 31
+        y: 14
+        width: 18
+        height: 52
+      spriteId: 3254708ca87978541a96391c075778a0
+    - name: MechanicalDoor_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 31
+        y: 14
+        width: 18
+        height: 52
+      spriteId: 895b2900412fc45479eded52a3089108
+    - name: MechanicalDoor_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 26
+        y: 14
+        width: 28
+        height: 52
+      spriteId: 12371bcdb81df1948b1b800c433b0846
+    - name: MechanicalDoor_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 20
+        y: 14
+        width: 40
+        height: 52
+      spriteId: b9a7fcf85d49da04d862e21b970e9570
+    - name: MechanicalDoor_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 18
+        y: 14
+        width: 44
+        height: 52
+      spriteId: 341dc11f025f0fd448eb851e7fe8e4a2
+    - name: MechanicalDoor_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 17
+        y: 14
+        width: 46
+        height: 52
+      spriteId: 3a5f418a16c447f40ab3b0696f48a2f6
+    - name: MechanicalDoor_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 14
+        width: 48
+        height: 52
+      spriteId: fa592d2cc53b18547810a2cb1ad2bb9e
+    - name: MechanicalDoor_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 15
+        y: 14
+        width: 50
+        height: 52
+      spriteId: 96496e31a18551a45adce10e8235c2c3
+    - name: MechanicalDoor_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 15
+        y: 14
+        width: 50
+        height: 52
+      spriteId: 9303099b44e64e344a700719935356d2
+    - name: MechanicalDoor_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 19
+        y: 14
+        width: 42
+        height: 52
+      spriteId: 2f7c9a2a334ce304da3f2fbd4ed9329b
+    - name: MechanicalDoor_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 34
+        y: 14
+        width: 12
+        height: 52
+      spriteId: 4fdd3256bba71844bbc42b530f0c438c
+    - name: MechanicalDoor_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 34
+        y: 14
+        width: 12
+        height: 52
+      spriteId: 9b1a4b8f29ebb154f93a6bd7ffc22864
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

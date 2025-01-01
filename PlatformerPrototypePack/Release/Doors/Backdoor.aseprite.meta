@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: b6f65fefafff1d341b2f96d7b6ec7e3e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Backdoor_Frame_0
+    originalName: 
+    pivot: {x: 0.01470586, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 284
+      width: 34
+      height: 48
+    spriteID: fca02287d328f7d46aeee5d6374bbb1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 284}
+  - name: Backdoor_Frame_1
+    originalName: 
+    pivot: {x: 0.47580644, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 398
+      width: 62
+      height: 48
+    spriteID: 3183c05ada35f3a4781e0a0608845f0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 398}
+  - name: Backdoor_Frame_2
+    originalName: 
+    pivot: {x: 0.50757575, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 66
+      height: 50
+    spriteID: 59f47821319227d4491fe0de841544aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Backdoor_Frame_3
+    originalName: 
+    pivot: {x: 0.4298246, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 116
+      width: 57
+      height: 48
+    spriteID: ee0d2a523374a21439102ee7d069f247
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 116}
+  - name: Backdoor_Frame_4
+    originalName: 
+    pivot: {x: 0.47580644, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 454
+      width: 62
+      height: 48
+    spriteID: 070521b8a288e534d8ca2684cde6d398
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 454}
+  - name: Backdoor_Frame_5
+    originalName: 
+    pivot: {x: 0.48412696, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 63
+      height: 48
+    spriteID: f2dd10c8e4c8c7f4eab551671baef337
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: Backdoor_Frame_6
+    originalName: 
+    pivot: {x: 0.47580644, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 4
+      width: 62
+      height: 48
+    spriteID: 85556af5f5fd64b44a360e5935601f22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 4}
+  - name: Backdoor_Frame_7
+    originalName: 
+    pivot: {x: 0.48412696, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 63
+      height: 48
+    spriteID: 0656d363511d4a043ae06e3c779835b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Backdoor_Frame_8
+    originalName: 
+    pivot: {x: 0.48412696, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 63
+      height: 48
+    spriteID: 83df32d8609fe2d499c4b92988de4287
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: Backdoor_Frame_9
+    originalName: 
+    pivot: {x: 0.48412696, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 63
+      height: 48
+    spriteID: ce8a331d6eeeb57478e4b70c0b3c1ff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 230}
+  - name: Backdoor_Frame_10
+    originalName: 
+    pivot: {x: 0.48412696, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 286
+      width: 63
+      height: 48
+    spriteID: a84971adf8b7cca4d822ddf52c45ae0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 286}
+  - name: Backdoor_Frame_11
+    originalName: 
+    pivot: {x: 0.47580644, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 60
+      width: 62
+      height: 48
+    spriteID: 91cb8a9c286fd4b458411470f87dd06e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 60}
+  - name: Backdoor_Frame_12
+    originalName: 
+    pivot: {x: 0.4298246, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 172
+      width: 57
+      height: 48
+    spriteID: b9c2dc94ddacb824d9e29e48ad966fad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 172}
+  - name: Backdoor_Frame_13
+    originalName: 
+    pivot: {x: 0.015151492, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 396
+      width: 33
+      height: 48
+    spriteID: c94c97ba2ff5b3641adce01d326413a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 396}
+  - name: Backdoor_Frame_14
+    originalName: 
+    pivot: {x: 0.06410254, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 228
+      width: 39
+      height: 48
+    spriteID: 8f3f57fb05f12234e96ade4c88cfd419
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 228}
+  - name: Backdoor_Frame_15
+    originalName: 
+    pivot: {x: 0.01470586, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 340
+      width: 34
+      height: 48
+    spriteID: e08a1a0fc51d22c4abc607e91da94b94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 340}
+  - name: Backdoor_Frame_16
+    originalName: 
+    pivot: {x: 0.48412696, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 63
+      height: 48
+    spriteID: 48c91d7bd04c8e6468daa436984a2fa7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 342}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1836612917
+    name: Backdoor
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Backdoor_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 47
+        y: 16
+        width: 34
+        height: 48
+      spriteId: fca02287d328f7d46aeee5d6374bbb1e
+    - name: Backdoor_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 18
+        y: 16
+        width: 62
+        height: 48
+      spriteId: 3183c05ada35f3a4781e0a0608845f0b
+    - name: Backdoor_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 14
+        y: 15
+        width: 66
+        height: 50
+      spriteId: 59f47821319227d4491fe0de841544aa
+    - name: Backdoor_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 23
+        y: 16
+        width: 57
+        height: 48
+      spriteId: ee0d2a523374a21439102ee7d069f247
+    - name: Backdoor_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 18
+        y: 16
+        width: 62
+        height: 48
+      spriteId: 070521b8a288e534d8ca2684cde6d398
+    - name: Backdoor_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 17
+        y: 16
+        width: 63
+        height: 48
+      spriteId: f2dd10c8e4c8c7f4eab551671baef337
+    - name: Backdoor_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 18
+        y: 16
+        width: 62
+        height: 48
+      spriteId: 85556af5f5fd64b44a360e5935601f22
+    - name: Backdoor_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 17
+        y: 16
+        width: 63
+        height: 48
+      spriteId: 0656d363511d4a043ae06e3c779835b3
+    - name: Backdoor_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 17
+        y: 16
+        width: 63
+        height: 48
+      spriteId: 83df32d8609fe2d499c4b92988de4287
+    - name: Backdoor_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 17
+        y: 16
+        width: 63
+        height: 48
+      spriteId: ce8a331d6eeeb57478e4b70c0b3c1ff3
+    - name: Backdoor_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 17
+        y: 16
+        width: 63
+        height: 48
+      spriteId: a84971adf8b7cca4d822ddf52c45ae0b
+    - name: Backdoor_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 18
+        y: 16
+        width: 62
+        height: 48
+      spriteId: 91cb8a9c286fd4b458411470f87dd06e
+    - name: Backdoor_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 23
+        y: 16
+        width: 57
+        height: 48
+      spriteId: b9c2dc94ddacb824d9e29e48ad966fad
+    - name: Backdoor_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 47
+        y: 16
+        width: 33
+        height: 48
+      spriteId: c94c97ba2ff5b3641adce01d326413a9
+    - name: Backdoor_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 45
+        y: 16
+        width: 39
+        height: 48
+      spriteId: 8f3f57fb05f12234e96ade4c88cfd419
+    - name: Backdoor_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 47
+        y: 16
+        width: 34
+        height: 48
+      spriteId: e08a1a0fc51d22c4abc607e91da94b94
+    - name: Backdoor_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 17
+        y: 16
+        width: 63
+        height: 48
+      spriteId: 48c91d7bd04c8e6468daa436984a2fa7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 95, y: 80}
