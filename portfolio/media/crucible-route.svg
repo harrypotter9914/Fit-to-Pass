@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="660" viewBox="0 0 1440 660">
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#e8ad68" stroke-width="1.7"/></marker></defs>
+<rect width="1440" height="660" rx="14" fill="#202727"/>
+<g font-family="Barlow,Arial,sans-serif" fill="#f4edda">
+<text x="52" y="61" font-size="19" letter-spacing="3" fill="#79c8bd">09 / CRUCIBLE TRANSIT</text>
+<text x="52" y="107" font-size="37" font-weight="700">Two rail lines. One overhead return.</text>
+<text x="52" y="143" font-size="19" fill="#bccac5">Design diagram • simplified from the current authored route • not a gameplay screenshot</text>
+<g stroke="#8daca5" stroke-width="10" fill="none"><path d="M65 420H190M565 420H840M370 250H800M285 352H360M995 352H1360"/></g>
+<g stroke="#527f79" stroke-width="3" fill="none"><path d="M190 440H560M360 372H995M823 420V240"/></g>
+<g stroke="#e8ad68" stroke-width="4" fill="none" marker-end="url(#a)">
+<path d="M105 402H590"/><path d="M825 397V282"/><path d="M770 229H412"/><path d="M380 265L334 325"/><path d="M380 335H990"/><path d="M930 393H680"/><path d="M1030 335H1310"/>
+</g>
+<g fill="#79c8bd"><circle cx="635" cy="412" r="14"/><circle cx="696" cy="344" r="10"/><circle cx="430" cy="242" r="10"/><circle cx="1280" cy="344" r="10"/></g>
+<g font-size="20"><text x="63" y="469">START</text><text x="559" y="470">PRISM / 3 RECEIVERS</text><text x="854" y="280">CALL LIFT</text><text x="575" y="210">M SCAN → S DUCT</text><text x="1060" y="310">OUTLET / S</text><text x="615" y="322" fill="#79c8bd">CYAN DOCK</text><text x="908" y="438">FAR STOP</text></g>
+<g font-size="23" font-weight="700" fill="#202727"><circle cx="249" cy="401" r="19" fill="#e8ad68"/><text x="242" y="409">1</text><circle cx="825" cy="330" r="19" fill="#e8ad68"/><text x="818" y="338">2</text><circle cx="470" cy="229" r="19" fill="#e8ad68"/><text x="463" y="237">3</text><circle cx="903" cy="335" r="19" fill="#e8ad68"/><text x="896" y="343">4</text><circle cx="695" cy="393" r="19" fill="#e8ad68"/><text x="688" y="401">5</text></g>
+<path d="M52 512H1388" stroke="#465b57"/>
+<g font-size="21"><text x="52" y="554">1  Dock the first line.</text><text x="510" y="554">2  Power optics; call the lift.</text><text x="995" y="554">3  Return along the canopy.</text><text x="52" y="599">4  Ride the upper line to its far stop.</text><text x="690" y="599">5  Return heavy; stop medium on cyan, then exit east.</text></g>
+</g></svg>

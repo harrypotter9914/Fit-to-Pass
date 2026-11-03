@@ -1,0 +1,104 @@
+{
+  "gameVersion": "2.4.0",
+  "capture": "Actual Unity gameplay from the approved R2.1 film source takes. Rehearsed demonstrations use isolated initial poses and inventories, then production movement, food, jump and interaction logic. These excerpts are not claimed as unaided campaign playthroughs. No generated image is presented as gameplay.",
+  "gifFiles": [
+    {
+      "file": "portfolio/media/counterweight-crossing.gif",
+      "sourceTake": "01-counterweight-cross-r2.mp4",
+      "sourceSha256": "b94b75be58dfce3b7e706ef275ad642bcc38bea1ce9b32b093d03a376c023853",
+      "sourceRangesSeconds": [
+        [
+          0.7,
+          14
+        ]
+      ],
+      "playback": "Real time; cuts only between the listed ranges. GIF loops.",
+      "width": 1120,
+      "fps": 12,
+      "bytes": 4110851
+    },
+    {
+      "file": "portfolio/media/airflow-side-exit.gif",
+      "sourceTake": "07-wind-side-exit.mp4",
+      "sourceSha256": "1cd517aa1361c8df250af10371f385eff2249daed308009121d7128761ebf5c8",
+      "sourceRangesSeconds": [
+        [
+          0.2,
+          4.8
+        ]
+      ],
+      "playback": "Real time; cuts only between the listed ranges. GIF loops.",
+      "width": 1120,
+      "fps": 12,
+      "bytes": 896854
+    },
+    {
+      "file": "portfolio/media/optics-to-lift.gif",
+      "sourceTake": "24-combined-route-complete.mp4",
+      "sourceSha256": "1b91443858717e77ad32f9135dc1cd3b235bcad52a8106c4ceca848e161e7cb6",
+      "sourceRangesSeconds": [
+        [
+          0.8,
+          6.2
+        ],
+        [
+          14.8,
+          22
+        ]
+      ],
+      "playback": "Real time; cuts only between the listed ranges. GIF loops.",
+      "width": 1120,
+      "fps": 12,
+      "bytes": 4973024
+    },
+    {
+      "file": "portfolio/media/return-and-dock.gif",
+      "sourceTake": "24-combined-route-complete.mp4",
+      "sourceSha256": "1b91443858717e77ad32f9135dc1cd3b235bcad52a8106c4ceca848e161e7cb6",
+      "sourceRangesSeconds": [
+        [
+          49.5,
+          54.7
+        ],
+        [
+          60.2,
+          66.5
+        ]
+      ],
+      "playback": "Real time; cuts only between the listed ranges. GIF loops.",
+      "width": 1120,
+      "fps": 12,
+      "bytes": 5589601
+    }
+  ],
+  "staticGameplay": [
+    {
+      "file": "greenhouse-gameplay.png",
+      "take": "22-greenhouse-full-route.mp4",
+      "second": 0.15
+    },
+    {
+      "file": "first-encounter.png",
+      "take": "23-first-encounter-r2.mp4",
+      "second": 5
+    },
+    {
+      "file": "overhead-scanner.png",
+      "take": "24-combined-route-complete.mp4",
+      "second": 28.5
+    }
+  ],
+  "coverArt": "gameplay-film-cover.png is the published film thumbnail; it is cover art, not a gameplay screenshot. official-title.png is the current game logo.",
+  "portfolios": {
+    "Selected": {
+      "file": "portfolio/Fit-to-Pass_Yibo-Wang_Selected.pdf",
+      "pages": 8,
+      "sha256": "713b9dff6d408baa389c9ddb154168eb4fe629cb52f494ed2267a617860d294c"
+    },
+    "Complete": {
+      "file": "portfolio/Fit-to-Pass_Yibo-Wang_Complete.pdf",
+      "pages": 10,
+      "sha256": "8163f42bcd0377198d677c1c507a8dd5a6ac9a29474e814acd4c216cad20992d"
+    }
+  }
+}
