@@ -12,25 +12,25 @@ These links lead to the current Unity C# implementation. Read the player situati
 
 ## “I opened the stone. Why is it closing again?”
 
-[`PlatformAndRockController.FixedUpdate()`](../Assets/Script/LevelTwo/PlatformAndRockController.cs) evaluates rider size every physics tick: heavy reverses toward the lowered plate/raised stone; medium returns without moving either; light or an empty plate returns toward the original position. There is no empty-plate hold timer.
+[`PlatformAndRockController.FixedUpdate()`](../Assets/Script/LevelTwo/PlatformAndRockController.cs#L15) evaluates rider size every physics tick: heavy moves toward the lowered plate/raised stone; medium holds both positions; light or an empty plate returns toward the original position. There is no empty-plate hold timer.
 
-**Design connection:** changing size on the plate can interrupt or balance motion; stepping off creates Slag Return's visible deadline. [`RegionalRoutes.SlagReturn()`](../Assets/Script/RegionalRoutes.cs) places supplies, the return approach and the later upper loop. The related [`ElevatorController`](../Assets/Script/LevelThree/ElevatorController.cs) uses small/up, medium/hold and heavy/down for mass lifts.
+**Design connection:** changing size on the plate can interrupt or balance motion; stepping off creates Slag Return's visible deadline. [`SlagReturn()` in RegionalRoutes.cs](../Assets/Script/RegionalRoutes.cs#L136) places supplies, the return approach and the later upper loop. The related [`ElevatorController`](../Assets/Script/LevelThree/ElevatorController.cs) uses small/up, medium/hold and heavy/down for mass lifts.
 
 ## “I am at the right height. How do I stay here?”
 
-[`VectorAirwell.FixedUpdate()`](../Assets/Script/VectorAirwell.cs) runs after normal player movement. Tiered fields converge toward a body-dependent feet height. Free fields use small/rise, medium/zero vertical target and heavy/descent. Horizontal input remains the player's ordinary movement.
+[`VectorAirwell.FixedUpdate()`](../Assets/Script/VectorAirwell.cs#L40) runs after normal player movement. Tiered fields converge toward a body-dependent feet height. Free fields use small/rise, medium/zero vertical target and heavy/descent. Horizontal input remains the player's ordinary movement.
 
 **Design connection:** `AuroraDescent()` uses two separate shafts and a middle side port; the same three body states first select a destination, then control the timing of a sideways exit.
 
 ## “The carriage reached the end, but my exit link is not stored.”
 
-[`RailShuttle.FixedUpdate()`](../Assets/Script/RailShuttle.cs) separates riding, direction, terminal arrival, return initiation and dock completion. On a `requireReturn` line, `TurnaroundReached` and `ReturnLegStarted` must precede the medium, stationary stop near cyan. `RestoreDock()` restores the completed state on retry.
+[`RailShuttle.FixedUpdate()`](../Assets/Script/RailShuttle.cs#L35) separates riding, direction, terminal arrival, return initiation and dock completion. On a `requireReturn` line, `TurnaroundReached` and `ReturnLegStarted` must precede the medium, stationary stop near cyan. `RestoreDock()` restores the completed state on retry.
 
 **Design connection:** chapter 09's second rail asks for a round trip and a deliberate brake, rather than awarding an objective for merely riding right. The first and second lines have different requirements.
 
 ## “What does this prism power, and why is the door still locked?”
 
-[`MassPrism.FixedUpdate()`](../Assets/Script/MassPrism.cs) stores three receiver charges; `Complete` requires all three. [`OpticalLiftPower.Connect()`](../Assets/Script/OpticalLiftPower.cs) binds that completion to the freight call's `PowerReady` predicate and creates its visible P1 connection.
+[`MassPrism.FixedUpdate()`](../Assets/Script/MassPrism.cs#L32) stores three receiver charges; `Complete` requires all three. [`OpticalLiftPower.Connect()`](../Assets/Script/OpticalLiftPower.cs#L9) binds that completion to the freight call's `PowerReady` predicate and creates its visible P1 connection.
 
 [`RouteCircuit.cs`](../Assets/Script/RouteCircuit.cs) combines body relays and other interlocks. `MissingReason`, `NextSource` and `NextObjective` expose the missing prerequisite; `Complete` controls whether the exit is ready. [`BodyRelay.FixedUpdate()`](../Assets/Script/BodyRelay.cs) requires the correct body on the correct landing before recording a link.
 
