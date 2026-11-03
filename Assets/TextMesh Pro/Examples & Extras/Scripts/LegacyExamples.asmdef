@@ -1,0 +1,5 @@
+{
+  "name": "FitToPass.LegacyExamples",
+  "references": ["Unity.TextMeshPro", "Unity.ugui"],
+  "defineConstraints": ["FIT_TO_PASS_LEGACY_EXAMPLES"]
+}
