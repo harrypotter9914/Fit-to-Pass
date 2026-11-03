@@ -1,615 +1,768 @@
 {
   "version": "2.4.0",
   "unity": "6000.5.9f1",
-  "source": "Current authoring workspace, preserved byte-for-byte for published C# and scene files",
+  "source": "Current v2.4.0 authoring workspace; contents match after standard Git line-ending normalization.",
   "files": [
     {
       "path": "Assets/Editor/CampaignTools.cs",
-      "sha256": "9a6451742cdb59ad8a7fc462bc2b23e4d6467ec8e6dcca3320eaeff75b48fada"
+      "sha256": "65fb305807f3d7c5acefff66cea2eadcde5330866bf3cd95aec502bc896ea2a1",
+      "authoringSha256": "9a6451742cdb59ad8a7fc462bc2b23e4d6467ec8e6dcca3320eaeff75b48fada"
     },
     {
       "path": "Assets/Editor/DesignedAudioImporter.cs",
-      "sha256": "0b58c8315252550c6dc2e4d5608a306bdf6027c9f123eccbfb5eeb8e31bffe4a"
+      "sha256": "0b58c8315252550c6dc2e4d5608a306bdf6027c9f123eccbfb5eeb8e31bffe4a",
+      "authoringSha256": "0b58c8315252550c6dc2e4d5608a306bdf6027c9f123eccbfb5eeb8e31bffe4a"
     },
     {
       "path": "Assets/Editor/ExpansionSceneBuilder.cs",
-      "sha256": "d9b880a25b5025e07ff91d2a983f7735d25b9fd6f9b9c69c75085bd70214d9d3"
+      "sha256": "ce479fe9134bc2aea6892147cefde1c0cfa1161e5a4238e80b17e10ddcb26a50",
+      "authoringSha256": "d9b880a25b5025e07ff91d2a983f7735d25b9fd6f9b9c69c75085bd70214d9d3"
     },
     {
       "path": "Assets/Editor/FatePortfolioCapture.cs",
-      "sha256": "3450c4f5b0f1b9cf58911fc27d4e957fa6746ffc114cfe738644e9e2a1e25964"
+      "sha256": "aa0166a84315cbd084a6dfea9f000a47b9982a89210789a38e0f5702cefbddb5",
+      "authoringSha256": "3450c4f5b0f1b9cf58911fc27d4e957fa6746ffc114cfe738644e9e2a1e25964"
     },
     {
       "path": "Assets/Editor/FitProjectSetup.cs",
-      "sha256": "1e4fbe8d60c2a83d460d716ef458e0ed239bfd699cd88ccea82b5b07ecaa2199"
+      "sha256": "65498b561b4727e07b0e82af7edfdc6a14bb99a0d82aae87b7ba7444b0b1a8aa",
+      "authoringSha256": "1e4fbe8d60c2a83d460d716ef458e0ed239bfd699cd88ccea82b5b07ecaa2199"
     },
     {
       "path": "Assets/Editor/FitPublicationCapture.cs",
-      "sha256": "c7038b804aca09ec34c46717240f166306c50eb9fb251c8b30ee9e8a6e81b46d"
+      "sha256": "c7038b804aca09ec34c46717240f166306c50eb9fb251c8b30ee9e8a6e81b46d",
+      "authoringSha256": "c7038b804aca09ec34c46717240f166306c50eb9fb251c8b30ee9e8a6e81b46d"
     },
     {
       "path": "Assets/Editor/GeneratedArtImporter.cs",
-      "sha256": "f9a5a6f052f50c78b7a40f2e5c7d26744b3134f3c222695346d8adaf26c7d92a"
+      "sha256": "5c89b6e09a59f7989c9872bfd6b6256f22929184118ee639a5a027b1f5a56a35",
+      "authoringSha256": "f9a5a6f052f50c78b7a40f2e5c7d26744b3134f3c222695346d8adaf26c7d92a"
     },
     {
       "path": "Assets/Scenes/Level1.unity",
-      "sha256": "00fb324a054ea25ea4ed20349024490bd48a7a58180475df3d0a48eee6abc553"
+      "sha256": "00fb324a054ea25ea4ed20349024490bd48a7a58180475df3d0a48eee6abc553",
+      "authoringSha256": "00fb324a054ea25ea4ed20349024490bd48a7a58180475df3d0a48eee6abc553"
     },
     {
       "path": "Assets/Scenes/Level10.unity",
-      "sha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464"
+      "sha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464",
+      "authoringSha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464"
     },
     {
       "path": "Assets/Scenes/Level2.unity",
-      "sha256": "b3d7e3c60c6ed1d1d3967c437c5d52673a5f748db3f76e9f26a03ee5f6d29d85"
+      "sha256": "b3d7e3c60c6ed1d1d3967c437c5d52673a5f748db3f76e9f26a03ee5f6d29d85",
+      "authoringSha256": "b3d7e3c60c6ed1d1d3967c437c5d52673a5f748db3f76e9f26a03ee5f6d29d85"
     },
     {
       "path": "Assets/Scenes/Level3.unity",
-      "sha256": "eee404b9f03462025bc162211338059138e3de7510508e266eaed33c047e00fc"
+      "sha256": "eee404b9f03462025bc162211338059138e3de7510508e266eaed33c047e00fc",
+      "authoringSha256": "eee404b9f03462025bc162211338059138e3de7510508e266eaed33c047e00fc"
     },
     {
       "path": "Assets/Scenes/Level4.unity",
-      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7"
     },
     {
       "path": "Assets/Scenes/Level5.unity",
-      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7"
     },
     {
       "path": "Assets/Scenes/Level6.unity",
-      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7"
     },
     {
       "path": "Assets/Scenes/Level7.unity",
-      "sha256": "e563d992adab632c85a28afb59afb386ab1b953dd39a3a23395aa64b598f81d8"
+      "sha256": "e563d992adab632c85a28afb59afb386ab1b953dd39a3a23395aa64b598f81d8",
+      "authoringSha256": "e563d992adab632c85a28afb59afb386ab1b953dd39a3a23395aa64b598f81d8"
     },
     {
       "path": "Assets/Scenes/Level8.unity",
-      "sha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464"
+      "sha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464",
+      "authoringSha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464"
     },
     {
       "path": "Assets/Scenes/Level9.unity",
-      "sha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464"
+      "sha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464",
+      "authoringSha256": "96ffcfe6e810b447fc62775188ebdc9518ac431753cfc37a1aa6598e9aaa2464"
     },
     {
       "path": "Assets/Scenes/MainMenu.unity",
-      "sha256": "157093dab915b4af44ee2769c9d0704ad14a5925495dc45019244d679abb3a5b"
+      "sha256": "157093dab915b4af44ee2769c9d0704ad14a5925495dc45019244d679abb3a5b",
+      "authoringSha256": "157093dab915b4af44ee2769c9d0704ad14a5925495dc45019244d679abb3a5b"
     },
     {
       "path": "Assets/Scenes/New Scene.unity",
-      "sha256": "1e6235793241d2704e2e02569fc09c0e67e5ea5fac36b327bafae686e86a82dc"
+      "sha256": "7689735727ac373608fcf5b7914dae20f3c9636b5e5dfdb926b217a0eadc349b",
+      "authoringSha256": "1e6235793241d2704e2e02569fc09c0e67e5ea5fac36b327bafae686e86a82dc"
     },
     {
       "path": "Assets/Scenes/Sector02.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector03.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector04.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector05.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector07.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector08.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector09.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector10.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector12.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector13.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector14.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/Sector15.unity",
-      "sha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
+      "sha256": "6967d704be0d0851d74182bd5fc9443279bb1b904abc9099ed24642b031839b7",
+      "authoringSha256": "424a506d513baf93a747d28a44c37d90599c9fefe54001d72ac6db4959f398d7"
     },
     {
       "path": "Assets/Scenes/test.unity",
-      "sha256": "40089f0241eb295f91125b5498c3d533622ad8cdc898f9017434903cdc158667"
+      "sha256": "ee75a767b15e73fe4e3c5e3b6dc49879e791ffadc0eb2d196acacc70ce75a71f",
+      "authoringSha256": "40089f0241eb295f91125b5498c3d533622ad8cdc898f9017434903cdc158667"
     },
     {
       "path": "Assets/Script/Art.cs",
-      "sha256": "e8c7e9421aef8d161ea2524e6d50e6604e06ee2ff14ec8dcfdb15b386c09a97c"
+      "sha256": "91d993799212566e2c03ddf6f14e985fdf34a82eeb45a40c0f72caaf3ce2a894",
+      "authoringSha256": "e8c7e9421aef8d161ea2524e6d50e6604e06ee2ff14ec8dcfdb15b386c09a97c"
     },
     {
       "path": "Assets/Script/BalanceBridge.cs",
-      "sha256": "9c4f4165345270692fe43cb06c8f5f735d130054814c261c1e8a8652c3040a28"
+      "sha256": "975f1ddab64559002c9c8661c781071f8f17b61f1199f86aea9d743b99f6c12f",
+      "authoringSha256": "9c4f4165345270692fe43cb06c8f5f735d130054814c261c1e8a8652c3040a28"
     },
     {
       "path": "Assets/Script/BodyRelay.cs",
-      "sha256": "4f83c4ea52a7f29b70344c97d968c1c9dbc3d2efe4192c19e24c45a318e8b8d7"
+      "sha256": "cb93311dd48c17c3d5ee0cffc930b8382eec70f9cb1abfe81d807db0a00272de",
+      "authoringSha256": "4f83c4ea52a7f29b70344c97d968c1c9dbc3d2efe4192c19e24c45a318e8b8d7"
     },
     {
       "path": "Assets/Script/CameraFollow.cs",
-      "sha256": "3306109a33e2a9638ff2b8200ca2952b42892ab95f18af6365860000adbf8b18"
+      "sha256": "acb25fde5e9f06da8c1e0c900408421e78d4a6b0adaa6e6ceda12c6cfb523b20",
+      "authoringSha256": "3306109a33e2a9638ff2b8200ca2952b42892ab95f18af6365860000adbf8b18"
     },
     {
       "path": "Assets/Script/CameraStopTrial.cs",
-      "sha256": "eff7ab4f7546b8528c14a7cbe75650871d2983950264dd73133233ccee3ba63e"
+      "sha256": "eff7ab4f7546b8528c14a7cbe75650871d2983950264dd73133233ccee3ba63e",
+      "authoringSha256": "eff7ab4f7546b8528c14a7cbe75650871d2983950264dd73133233ccee3ba63e"
     },
     {
       "path": "Assets/Script/CampaignCheckpointState.cs",
-      "sha256": "9891b1166c182c4464250feda8fa35b0fa245170bd72554ec6c67c364eefd412"
+      "sha256": "4f3ef1858c467138e2fa5ac054077976ce9465e4072a4a8681f0a6f320e3e512",
+      "authoringSha256": "9891b1166c182c4464250feda8fa35b0fa245170bd72554ec6c67c364eefd412"
     },
     {
       "path": "Assets/Script/CampaignExpansion.cs",
-      "sha256": "a6d34245392cd653256795793d4dc350824cbffffa7de915fa7e4fba9d05fb49"
+      "sha256": "c1bb51b0ff7850fbe526e5bc21174dc43286abe944a24a52cbed9a24083c0944",
+      "authoringSha256": "a6d34245392cd653256795793d4dc350824cbffffa7de915fa7e4fba9d05fb49"
     },
     {
       "path": "Assets/Script/CampaignMap.cs",
-      "sha256": "617bf3da6f5ff6e7cf9b0c76cc677d5e2877c45a20b76eb74a178b11571ac507"
+      "sha256": "617bf3da6f5ff6e7cf9b0c76cc677d5e2877c45a20b76eb74a178b11571ac507",
+      "authoringSha256": "617bf3da6f5ff6e7cf9b0c76cc677d5e2877c45a20b76eb74a178b11571ac507"
     },
     {
       "path": "Assets/Script/CampaignPilot.cs",
-      "sha256": "d15b1d4c6050c6c3599d5a5861ff2d1f4102ab09c00b65a142de9b257462d412"
+      "sha256": "22c8d0a8943389d7cf724e45f7dfc0550dae12ced6711b5c7fcf1fcf67a1bb8a",
+      "authoringSha256": "d15b1d4c6050c6c3599d5a5861ff2d1f4102ab09c00b65a142de9b257462d412"
     },
     {
       "path": "Assets/Script/CheckGizmo.cs",
-      "sha256": "a73beaa5a47f05b78df3614893e74789f416468a7f7dc062aafbaa48961b9f93"
+      "sha256": "d6d91672cdd2a57a463d0e5281a481b9e52c10c62f21d6bd75e8c239a772dba2",
+      "authoringSha256": "a73beaa5a47f05b78df3614893e74789f416468a7f7dc062aafbaa48961b9f93"
     },
     {
       "path": "Assets/Script/DeathZone.cs",
-      "sha256": "52beb3d635f8a7b714336580b989e3ca9422016df5738fb6e51d0d6e15cee6a8"
+      "sha256": "de1a099112e7f8d7f24cf3eb40b30d960ff18050d2748c671d523cc3a2c31671",
+      "authoringSha256": "52beb3d635f8a7b714336580b989e3ca9422016df5738fb6e51d0d6e15cee6a8"
     },
     {
       "path": "Assets/Script/DeviceSound.cs",
-      "sha256": "21ec4fec596218de270a606069a031dc8fd11acf98b9f5547db07b5132e8515e"
+      "sha256": "fd02e2ce559eb4b3f1287bc26aa805b292c0fc8ce3dff5268764c97299c66cc7",
+      "authoringSha256": "21ec4fec596218de270a606069a031dc8fd11acf98b9f5547db07b5132e8515e"
     },
     {
       "path": "Assets/Script/EnvironmentalGuidance.cs",
-      "sha256": "ea79aa5da054d962d94dc6a7330e878dd8317cf68c5dd2d53361fb34407b9403"
+      "sha256": "76ad5f3e7bc33302b9aa8be267a81d099224a47f3e5982e8012f1c4c4c253235",
+      "authoringSha256": "ea79aa5da054d962d94dc6a7330e878dd8317cf68c5dd2d53361fb34407b9403"
     },
     {
       "path": "Assets/Script/FirstEncounterGuide.cs",
-      "sha256": "8f4ec478d0fe8eda482a9b69d2a44acbc9b43513dccd6dd888e8476b31ac6721"
+      "sha256": "8f4ec478d0fe8eda482a9b69d2a44acbc9b43513dccd6dd888e8476b31ac6721",
+      "authoringSha256": "8f4ec478d0fe8eda482a9b69d2a44acbc9b43513dccd6dd888e8476b31ac6721"
     },
     {
       "path": "Assets/Script/FirstEncounterHUD.cs",
-      "sha256": "73779e8f67ed33a4b7c91164f1665ed17169f96c840076264f7459fa01de7499"
+      "sha256": "73779e8f67ed33a4b7c91164f1665ed17169f96c840076264f7459fa01de7499",
+      "authoringSha256": "73779e8f67ed33a4b7c91164f1665ed17169f96c840076264f7459fa01de7499"
     },
     {
       "path": "Assets/Script/FirstEncounterPlaytestRecorder.cs",
-      "sha256": "152213339853d11f386a27b284c9886f6dd45ed382a937184a2a5a922184395b"
+      "sha256": "152213339853d11f386a27b284c9886f6dd45ed382a937184a2a5a922184395b",
+      "authoringSha256": "152213339853d11f386a27b284c9886f6dd45ed382a937184a2a5a922184395b"
     },
     {
       "path": "Assets/Script/GameAudio.cs",
-      "sha256": "9e543349c44b4036be653c7a6eedc5ad962cdcad29589dc10f351e669643ce7e"
+      "sha256": "b813ef6b72d335ed77d7bdb64cc06de2758ca8765cc825c469bdf355f4d322fc",
+      "authoringSha256": "9e543349c44b4036be653c7a6eedc5ad962cdcad29589dc10f351e669643ce7e"
     },
     {
       "path": "Assets/Script/GameFlow.cs",
-      "sha256": "86685eead5dd231996457400a654bf91b38d66aab11fdb7bbe03eda02d559f3a"
+      "sha256": "f6e909b2a6e5e7442c8ba32bb4b7b72e18928d187125557d5b39e5a8ad676116",
+      "authoringSha256": "86685eead5dd231996457400a654bf91b38d66aab11fdb7bbe03eda02d559f3a"
     },
     {
       "path": "Assets/Script/GameHUD.cs",
-      "sha256": "efeb8dfdb5bf82c98be8ad91babed7b65722a5291d10f2f02b3daf0d175346d5"
+      "sha256": "4b18c5ba924f3bfc2d9377cd79394e4aa76d75a6c3f0474372d7f79b99a47759",
+      "authoringSha256": "efeb8dfdb5bf82c98be8ad91babed7b65722a5291d10f2f02b3daf0d175346d5"
     },
     {
       "path": "Assets/Script/GamePresentation.cs",
-      "sha256": "46045c66ae9ea0fddb74e2de88ee4a87dd22a785f50953e4200a5625eef2ad06"
+      "sha256": "3b2256f63469ea054f52cf90b2f6e52c00dbc4ea3c52185b5d54f92471a52e00",
+      "authoringSha256": "46045c66ae9ea0fddb74e2de88ee4a87dd22a785f50953e4200a5625eef2ad06"
     },
     {
       "path": "Assets/Script/GroundedFixture.cs",
-      "sha256": "30edb168cf83d97533aecb02e8d220db7ab105e103ebb9ad62e7c4379fd5cb03"
+      "sha256": "30edb168cf83d97533aecb02e8d220db7ab105e103ebb9ad62e7c4379fd5cb03",
+      "authoringSha256": "30edb168cf83d97533aecb02e8d220db7ab105e103ebb9ad62e7c4379fd5cb03"
     },
     {
       "path": "Assets/Script/GuidancePlaytestRecorder.cs",
-      "sha256": "b6142c0a98c1ae63f7052a38cadfb6c73e5ea2d6156b34e5f0140454bb1ae0ee"
+      "sha256": "b6142c0a98c1ae63f7052a38cadfb6c73e5ea2d6156b34e5f0140454bb1ae0ee",
+      "authoringSha256": "b6142c0a98c1ae63f7052a38cadfb6c73e5ea2d6156b34e5f0140454bb1ae0ee"
     },
     {
       "path": "Assets/Script/GuideIllustrations.cs",
-      "sha256": "af63a31161aabbda91a755ae3c9bb90a5755507157e4389f8beea72ccb14c237"
+      "sha256": "286c11ad51f9eda9cf55f4a8dd3120fd84c3a23eed811b658258ea84a8b37f0e",
+      "authoringSha256": "af63a31161aabbda91a755ae3c9bb90a5755507157e4389f8beea72ccb14c237"
     },
     {
       "path": "Assets/Script/IllustratedUI.cs",
-      "sha256": "519ebded15b969ee41040d8f2b248e7bfa24d2fbeec6d96450dc77f3407902e6"
+      "sha256": "18885c48b06e63ebf035a37ff139e8aa605d463179e9b5ac2c9534732b7c3d50",
+      "authoringSha256": "519ebded15b969ee41040d8f2b248e7bfa24d2fbeec6d96450dc77f3407902e6"
     },
     {
       "path": "Assets/Script/ImpactSound.cs",
-      "sha256": "53ffa5a8c181ce2b9aff423734d7a5693bfa1c3f24231930d544704186d4c2c2"
+      "sha256": "6dc14d26897be6be941b9299ac5555ab96fddb4730cbc1c4b1762cd7aad49d74",
+      "authoringSha256": "53ffa5a8c181ce2b9aff423734d7a5693bfa1c3f24231930d544704186d4c2c2"
     },
     {
       "path": "Assets/Script/KineticCapacitor.cs",
-      "sha256": "61d476af9f4c179a9eacca50fec5da9e5b43932eba8e407dd9724cad617bbb72"
+      "sha256": "46dd88a0d56633f421f3bb8d7e293a1fc8ce4560c195a8c14fecba513f4eafed",
+      "authoringSha256": "61d476af9f4c179a9eacca50fec5da9e5b43932eba8e407dd9724cad617bbb72"
     },
     {
       "path": "Assets/Script/LabDevice.cs",
-      "sha256": "76fc873570021a48c18de4c2b61b36b4230b10e9fd85d187cc93c1bd363b61dc"
+      "sha256": "76fc873570021a48c18de4c2b61b36b4230b10e9fd85d187cc93c1bd363b61dc",
+      "authoringSha256": "76fc873570021a48c18de4c2b61b36b4230b10e9fd85d187cc93c1bd363b61dc"
     },
     {
       "path": "Assets/Script/LabDeviceHUD.cs",
-      "sha256": "5e2f8005bf31c18be88e16d5943bf53d0cd980b1737d898538473ffb3ae67c3a"
+      "sha256": "6ab15c58d48a15448d79802dd835bfb46f465e36eab87a9378ff83da2faa4484",
+      "authoringSha256": "5e2f8005bf31c18be88e16d5943bf53d0cd980b1737d898538473ffb3ae67c3a"
     },
     {
       "path": "Assets/Script/MassEcho.cs",
-      "sha256": "4f637c866668bc3846dbdc6f45441013d2f3db970b4c4a853173c1ea961a980b"
+      "sha256": "0c82f94c69f420822bca6ee7244b9435a2424add140da6ebc47424f0fcce1a96",
+      "authoringSha256": "4f637c866668bc3846dbdc6f45441013d2f3db970b4c4a853173c1ea961a980b"
     },
     {
       "path": "Assets/Script/MassGate.cs",
-      "sha256": "070766f8103eb044affa52b848a7f0ded6775d62be94bde8fc9ddf6025596eab"
+      "sha256": "21b6a73c2b9a8f5dc4682258bbf38b6418d6b60d784187d0800832acbcb53161",
+      "authoringSha256": "070766f8103eb044affa52b848a7f0ded6775d62be94bde8fc9ddf6025596eab"
     },
     {
       "path": "Assets/Script/MassLock.cs",
-      "sha256": "bd3db3bd40ed4f32956bb2c4b78311765317a853130c94910f3b3ee2f539614e"
+      "sha256": "d8ea917adac99fec1a1bfa0a6a4b98972a06f0058cfd5fbeeb295da6eb02397a",
+      "authoringSha256": "bd3db3bd40ed4f32956bb2c4b78311765317a853130c94910f3b3ee2f539614e"
     },
     {
       "path": "Assets/Script/MassLockStation.cs",
-      "sha256": "2fb7f19e269a3b66db27239cf6843197c4ee671acd070a3efff3fb0843fbd5cd"
+      "sha256": "2fb7f19e269a3b66db27239cf6843197c4ee671acd070a3efff3fb0843fbd5cd",
+      "authoringSha256": "2fb7f19e269a3b66db27239cf6843197c4ee671acd070a3efff3fb0843fbd5cd"
     },
     {
       "path": "Assets/Script/MassPrism.cs",
-      "sha256": "bd5faf310d65e8bd62346ab188c73151de5b31a4d22b2da488d7bcdd6fd4dc40"
+      "sha256": "bd5faf310d65e8bd62346ab188c73151de5b31a4d22b2da488d7bcdd6fd4dc40",
+      "authoringSha256": "bd5faf310d65e8bd62346ab188c73151de5b31a4d22b2da488d7bcdd6fd4dc40"
     },
     {
       "path": "Assets/Script/MechanismConnections.cs",
-      "sha256": "8069960d4a7bd852ae065501cea578e0f19d2848c7f29d5eef15e34f5ebf9bd5"
+      "sha256": "8069960d4a7bd852ae065501cea578e0f19d2848c7f29d5eef15e34f5ebf9bd5",
+      "authoringSha256": "8069960d4a7bd852ae065501cea578e0f19d2848c7f29d5eef15e34f5ebf9bd5"
     },
     {
       "path": "Assets/Script/MechanismVisual.cs",
-      "sha256": "daf3a3970b01cef2325fac449d243364cd183a4bd1d92062ac479a8391bce7bd"
+      "sha256": "28ccfd97447fc27e73d260ec8908566401b8741a73d95be479b1d7b72b44f750",
+      "authoringSha256": "daf3a3970b01cef2325fac449d243364cd183a4bd1d92062ac479a8391bce7bd"
     },
     {
       "path": "Assets/Script/MotionReviewProbe.cs",
-      "sha256": "51f09757b4772eb9af48c5d15170659efb63768f82b6a13e8ea61fa22c689bc7"
+      "sha256": "51f09757b4772eb9af48c5d15170659efb63768f82b6a13e8ea61fa22c689bc7",
+      "authoringSha256": "51f09757b4772eb9af48c5d15170659efb63768f82b6a13e8ea61fa22c689bc7"
     },
     {
       "path": "Assets/Script/OpeningSequence.cs",
-      "sha256": "ec0959d0d954e7a1f46223774956b88ed8eaefdd7702232f172e6356f8293bb2"
+      "sha256": "e695063196805c094ea8d318232f39ece95e1a209335b01c9fcb9774007908fe",
+      "authoringSha256": "ec0959d0d954e7a1f46223774956b88ed8eaefdd7702232f172e6356f8293bb2"
     },
     {
       "path": "Assets/Script/OpticalLiftPower.cs",
-      "sha256": "8646eb5b66eb1e9bf186f7f38c4cb9d31b307f4732e15b5b307ba90127e0b9e5"
+      "sha256": "8646eb5b66eb1e9bf186f7f38c4cb9d31b307f4732e15b5b307ba90127e0b9e5",
+      "authoringSha256": "8646eb5b66eb1e9bf186f7f38c4cb9d31b307f4732e15b5b307ba90127e0b9e5"
     },
     {
       "path": "Assets/Script/PlayerController.cs",
-      "sha256": "b1677d5fd1e0e36b244859334b5eabca87e6f33ddcc4d04c898aea4858eccb5c"
+      "sha256": "d945da533459f4269122f2f91cbe0b18a88b0d257f54c95cd80e32170f83dee4",
+      "authoringSha256": "b1677d5fd1e0e36b244859334b5eabca87e6f33ddcc4d04c898aea4858eccb5c"
     },
     {
       "path": "Assets/Script/PlayerFoley.cs",
-      "sha256": "e86fd7093c2a8ee0fa993ed2f979d9f0c1b57c1050a849f4dde65c7c2bfba38f"
+      "sha256": "bec4c0ac31af31610d318d1cbc7b48870a3a809d8c199efaca9a64c17f056ae3",
+      "authoringSha256": "e86fd7093c2a8ee0fa993ed2f979d9f0c1b57c1050a849f4dde65c7c2bfba38f"
     },
     {
       "path": "Assets/Script/RailShuttle.cs",
-      "sha256": "a9d94ca14ccdacdc7cecddf2c856918c2beceb24b7a66e259065180d566e68d9"
+      "sha256": "72ac107c7da4fbe8026648f8382cb4acdd51d094ec4acd06a3de1b44f5277665",
+      "authoringSha256": "a9d94ca14ccdacdc7cecddf2c856918c2beceb24b7a66e259065180d566e68d9"
     },
     {
       "path": "Assets/Script/RecessedPanel.cs",
-      "sha256": "3f4e104a9a4a0aa48179c8c6a15983972ae2bf0cbc77eeede80327147c6a6530"
+      "sha256": "3f4e104a9a4a0aa48179c8c6a15983972ae2bf0cbc77eeede80327147c6a6530",
+      "authoringSha256": "3f4e104a9a4a0aa48179c8c6a15983972ae2bf0cbc77eeede80327147c6a6530"
     },
     {
       "path": "Assets/Script/RegionalRoutePilot.cs",
-      "sha256": "37a6ca3c8eca27bf2ecc61508c941894323f7229a928542e5272ef21f73a05f4"
+      "sha256": "80424a250b49149030e34e865356017117b16e4e61cc5eb03be479a7434009fb",
+      "authoringSha256": "37a6ca3c8eca27bf2ecc61508c941894323f7229a928542e5272ef21f73a05f4"
     },
     {
       "path": "Assets/Script/RegionalRoutes.cs",
-      "sha256": "65aab0d89e47e747d735618a6af62054f3f4781443627849939d47231d298f87"
+      "sha256": "dc33163f6367d0aceed81b57419d338bfe51f7863469075c59a3b6f572c75b06",
+      "authoringSha256": "65aab0d89e47e747d735618a6af62054f3f4781443627849939d47231d298f87"
     },
     {
       "path": "Assets/Script/RespawnSafety.cs",
-      "sha256": "e9ad1ed394bd11708987dcdeb832e63dcda88e032d477066ea053071a6c75867"
+      "sha256": "e9ad1ed394bd11708987dcdeb832e63dcda88e032d477066ea053071a6c75867",
+      "authoringSha256": "e9ad1ed394bd11708987dcdeb832e63dcda88e032d477066ea053071a6c75867"
     },
     {
       "path": "Assets/Script/RouteCircuit.cs",
-      "sha256": "b54e8d14a4052a2ab95338fe1ab079c0ec263d3dccc199076812594e97ca82a9"
+      "sha256": "b54e8d14a4052a2ab95338fe1ab079c0ec263d3dccc199076812594e97ca82a9",
+      "authoringSha256": "b54e8d14a4052a2ab95338fe1ab079c0ec263d3dccc199076812594e97ca82a9"
     },
     {
       "path": "Assets/Script/SignalBarrier.cs",
-      "sha256": "5c953e033cd41db1ee91fe1e5803ba43df942ce1b07b33578f0078d0cb3e4b3c"
+      "sha256": "dc5607a7beb43e89f4de116dafe2e35a810e7a8a438050c0a5fbb7394cd1f2f0",
+      "authoringSha256": "5c953e033cd41db1ee91fe1e5803ba43df942ce1b07b33578f0078d0cb3e4b3c"
     },
     {
       "path": "Assets/Script/SoundEmitter.cs",
-      "sha256": "49dc6a0825a2b4896d9bad8d78fd7085d19fd61af6c66d27c3a0e3c6360bbbba"
+      "sha256": "ec9f48547757e2909b2e39ef68f48a19e0ca0f438e3acc4aa2bee1041b3faaba",
+      "authoringSha256": "49dc6a0825a2b4896d9bad8d78fd7085d19fd61af6c66d27c3a0e3c6360bbbba"
     },
     {
       "path": "Assets/Script/TutorialDirector.cs",
-      "sha256": "a83f5481e7a6c3756304dab3f251fb0931c16cc200051b1e8d9792ae460cf9f1"
+      "sha256": "e35414ba36d5a5a0b943f733258ecafee21fed66cd3b574a8c049802ee1eb4b1",
+      "authoringSha256": "a83f5481e7a6c3756304dab3f251fb0931c16cc200051b1e8d9792ae460cf9f1"
     },
     {
       "path": "Assets/Script/VectorAirwell.cs",
-      "sha256": "05d36bc2ea81bac1273e581851b8fd9b2ac0e3675ecbf7287a26acaca209ac5f"
+      "sha256": "05d36bc2ea81bac1273e581851b8fd9b2ac0e3675ecbf7287a26acaca209ac5f",
+      "authoringSha256": "05d36bc2ea81bac1273e581851b8fd9b2ac0e3675ecbf7287a26acaca209ac5f"
     },
     {
       "path": "Assets/Script/WorldFixtures.cs",
-      "sha256": "4a86a3367872b291af27d8a426edefb877955f66bb7d5fa305d57a0f3126b46c"
+      "sha256": "7e95e71b5b92d33949b897cad8d1f4a9638f2a38cdb1d93744a13831402d7701",
+      "authoringSha256": "4a86a3367872b291af27d8a426edefb877955f66bb7d5fa305d57a0f3126b46c"
     },
     {
       "path": "Assets/Script/WorldGuideView.cs",
-      "sha256": "c6a5f2b5178ea450ddb7bc5e57d31856be76479c1e8fc8ada5f20d0c444b35ed"
+      "sha256": "768b8a1dc3524305e7c167c1ac754e13bd104128c1b4388e1e4104fd9672093b",
+      "authoringSha256": "c6a5f2b5178ea450ddb7bc5e57d31856be76479c1e8fc8ada5f20d0c444b35ed"
     },
     {
       "path": "Assets/Pixel Adventure 1/Scenes/Demo.unity",
-      "sha256": "186401530085627115907abe2a25d5d9b7414e161366d144bbf459f2cfc004cf"
+      "sha256": "14427307a25f49781b4da07982c7ae05a628c745eb5697f90da29b960052f113",
+      "authoringSha256": "186401530085627115907abe2a25d5d9b7414e161366d144bbf459f2cfc004cf"
     },
     {
       "path": "Assets/Script/LevelOne/ButtonController.cs",
-      "sha256": "74816facfb1545429ba0fe1e0db983a2a6cf208484b554fbcc50b06c3156d8eb"
+      "sha256": "33b5f0407aca8d65bebdcc5c814014e479c7d8dc7c292acacaf582d92d60bd08",
+      "authoringSha256": "74816facfb1545429ba0fe1e0db983a2a6cf208484b554fbcc50b06c3156d8eb"
     },
     {
       "path": "Assets/Script/LevelOne/PlatformController.cs",
-      "sha256": "a4a9899019409597bfe6d8aabd38fcfaa62f0b5fd4a4210acef70e4e31d9f088"
+      "sha256": "779739f4c6ea1e7b2692b516e4a3047776e3713b7f90a1c4196d9bb590ed60b3",
+      "authoringSha256": "a4a9899019409597bfe6d8aabd38fcfaa62f0b5fd4a4210acef70e4e31d9f088"
     },
     {
       "path": "Assets/Script/LevelThree/ElevatorController.cs",
-      "sha256": "bdc00b6ff9cd3397e735925e59389d386a2a82d47089c41fa78b68998ea53072"
+      "sha256": "2c169645b628720eaafda07bcb291ad1f5da67d5b5f784ee1067e5573fead4b4",
+      "authoringSha256": "bdc00b6ff9cd3397e735925e59389d386a2a82d47089c41fa78b68998ea53072"
     },
     {
       "path": "Assets/Script/LevelThree/SpringController.cs",
-      "sha256": "a82a91fdd948cd649ca6b1ca238462745613e5989d9674b402e454e471546c9e"
+      "sha256": "b8a038c99c0662a99df92be5f65236074130efef7231bd3c3e07230c7cd3702b",
+      "authoringSha256": "a82a91fdd948cd649ca6b1ca238462745613e5989d9674b402e454e471546c9e"
     },
     {
       "path": "Assets/Script/LevelTwo/PlatformAndRockController.cs",
-      "sha256": "025ec4c685edb14350e25928c46cd4def396092fd48272ec6c498fec037142f9"
+      "sha256": "2ada0cac5b531e68737a4509e751f05241dc0fb0531623bb9b4d20f82a05a52c",
+      "authoringSha256": "025ec4c685edb14350e25928c46cd4def396092fd48272ec6c498fec037142f9"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity",
-      "sha256": "990d95ec0dd0546a45f31e5ddfc4428cf4abede22614a6935f89b719b8916c04"
+      "sha256": "cdb80b42a580232c8d60f04e3c6d2cafbd2d99b57322a8a8b11008a1828d905e",
+      "authoringSha256": "990d95ec0dd0546a45f31e5ddfc4428cf4abede22614a6935f89b719b8916c04"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity",
-      "sha256": "ecb317d1d9f279c6996172493535a860bcb043324d032c207b3013e15afed23d"
+      "sha256": "317ec754c02a4eb508daf5c4a7f2329e18534ad4b9fd71cc8d6a33f468502685",
+      "authoringSha256": "ecb317d1d9f279c6996172493535a860bcb043324d032c207b3013e15afed23d"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity",
-      "sha256": "24d5223b77755d40fb0226a02af9704305a22fc1b8e1a144945ab902cd54b961"
+      "sha256": "bd892ffa1a656548b15e5edde17c64c298988dac71336c17c32294554aff9a55",
+      "authoringSha256": "24d5223b77755d40fb0226a02af9704305a22fc1b8e1a144945ab902cd54b961"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity",
-      "sha256": "5479172b20839050247c4a89aa2ad411e93b4a0c78d3160e067367480a114694"
+      "sha256": "0a01fb45fe50894c66c63c169b92aae766c4472f64cdae6b3eb986a00e7e25f9",
+      "authoringSha256": "5479172b20839050247c4a89aa2ad411e93b4a0c78d3160e067367480a114694"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity",
-      "sha256": "0ac68c307895780fdc8ff4d5bf5ffdbbb8dd19146080caf5b20098be64c9bb65"
+      "sha256": "83da37c6865a7fa31a32c67d73616406768afc72d9aee23b6b2fc6168dbd3887",
+      "authoringSha256": "0ac68c307895780fdc8ff4d5bf5ffdbbb8dd19146080caf5b20098be64c9bb65"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity",
-      "sha256": "7471483a64fce14ee88f8f2237a2c1908f8dc7027012c2671e990b0c3dada6b6"
+      "sha256": "737bfc9df61a0a0b57edcc55aae53778085e99d534886800f5498096c9f88f2a",
+      "authoringSha256": "7471483a64fce14ee88f8f2237a2c1908f8dc7027012c2671e990b0c3dada6b6"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity",
-      "sha256": "e04e775290f8786f797ffe9461138970eba8d3108bf44b0baef129d7d2e93192"
+      "sha256": "e4ae928851c690246ce2fdd39464869889f6c4228603a68db2af20f21dbd91b5",
+      "authoringSha256": "e04e775290f8786f797ffe9461138970eba8d3108bf44b0baef129d7d2e93192"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity",
-      "sha256": "52e65a7e373cf75ef63c32dfe3a3288112536bbbe1c1fbe5d0e0fd8800ccb051"
+      "sha256": "05c6a6b85b52972b39cbb2eeb7aaee4b51793eeb1e627bdaeb5a21e7ca4802d4",
+      "authoringSha256": "52e65a7e373cf75ef63c32dfe3a3288112536bbbe1c1fbe5d0e0fd8800ccb051"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity",
-      "sha256": "f3376e0fe78e22129df63d2cb5e46da21deaaa96d1b2be74f757db4c397af7a5"
+      "sha256": "ec6ab2d9e38290113e795c1b86735b64fe6d775200a3ef9092e9a745ad6b3bf0",
+      "authoringSha256": "f3376e0fe78e22129df63d2cb5e46da21deaaa96d1b2be74f757db4c397af7a5"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity",
-      "sha256": "8121b1f2a9b7f73898c2cab8dfdfb5e371d5039d4b08af6d9af28739e18d17bf"
+      "sha256": "d468902d557d03ae822e0b7ff2539b44c1a276c48d487a98163abcf4c5ca88ce",
+      "authoringSha256": "8121b1f2a9b7f73898c2cab8dfdfb5e371d5039d4b08af6d9af28739e18d17bf"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity",
-      "sha256": "6bf4aca49c66dea4570d30f916b856475c8ce6b5926f2690907dcf1b71f22a4d"
+      "sha256": "80010ddbda5e6b95f784abf21a58a5e90dfe41b5e525e2ae02c7c9c98cb7f9be",
+      "authoringSha256": "6bf4aca49c66dea4570d30f916b856475c8ce6b5926f2690907dcf1b71f22a4d"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity",
-      "sha256": "d776bddc144a33ec4e225d96de1d62dd150c66d91193fff276d6a087f1100329"
+      "sha256": "353d0a20d06514b2a2325e6bb40d41bdf4f67e0702069ba88e88cedf53de969c",
+      "authoringSha256": "d776bddc144a33ec4e225d96de1d62dd150c66d91193fff276d6a087f1100329"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity",
-      "sha256": "7e384fe2065787d43e96e4a5991eaae1f46b43cfe97b1753c1b1eddf0d036c54"
+      "sha256": "2860f48cec243dd323d7608ced821d9f48cfdc3012fbe6df74b4523b3f92829d",
+      "authoringSha256": "7e384fe2065787d43e96e4a5991eaae1f46b43cfe97b1753c1b1eddf0d036c54"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity",
-      "sha256": "6df43fe94862b2868d42bd5627c2512cf6583d6de9f11705f67b7cee78ef2927"
+      "sha256": "be93ce1673df9882b08c46468079bcf5b1b2701c0f30cee8769117a177f2c4cd",
+      "authoringSha256": "6df43fe94862b2868d42bd5627c2512cf6583d6de9f11705f67b7cee78ef2927"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity",
-      "sha256": "c2baee844d8329325250db3e41f3de9fdf2d794a12680a17213c79b32e9d6fac"
+      "sha256": "8893d1091228960c45ecc650a6f1a75a3e691319b3f9052b54126aaf77cd01bc",
+      "authoringSha256": "c2baee844d8329325250db3e41f3de9fdf2d794a12680a17213c79b32e9d6fac"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity",
-      "sha256": "92449ad8abc858797cca21984cc4b887203245dbeeb7b70fbff4e81487b1f72e"
+      "sha256": "530947500e5ba5c6d173ee7efcf5c0854d7fa1dda030f7bf21a85b43c182364a",
+      "authoringSha256": "92449ad8abc858797cca21984cc4b887203245dbeeb7b70fbff4e81487b1f72e"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity",
-      "sha256": "5cfefefd451fb0d5725efe8a07ff0d71ce4863fb5ea5ee592bfc6e7338718334"
+      "sha256": "4246dd769fe6c6fbc5bef742e8e57e0cc906539867cdfa9ae61706cc65486b31",
+      "authoringSha256": "5cfefefd451fb0d5725efe8a07ff0d71ce4863fb5ea5ee592bfc6e7338718334"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity",
-      "sha256": "77b148a5d2421daf4ac3da58eccfa5f8600c3b6b306f3eef8bd4194eb22f89cb"
+      "sha256": "ca97ddbaae007aed4a31083590f6a2c4bb758bbc608f0d84409a9149301b7612",
+      "authoringSha256": "77b148a5d2421daf4ac3da58eccfa5f8600c3b6b306f3eef8bd4194eb22f89cb"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity",
-      "sha256": "dd3ab251a81fd477e13b122fd00f25f1ee57729b548320176f9eed5c807726e1"
+      "sha256": "8aa2e52132a0d83bd1fb2a58604334b75700bf51a47b31136212c607cecaf515",
+      "authoringSha256": "dd3ab251a81fd477e13b122fd00f25f1ee57729b548320176f9eed5c807726e1"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity",
-      "sha256": "c68017bf6f85a99e8319c3bb2285b8cc3f7a5844f2df6e11da9bf87a2ded383f"
+      "sha256": "349c3c87b99d67c912daab798392404603970eacb87dee2f3cea712cbd7a21b8",
+      "authoringSha256": "c68017bf6f85a99e8319c3bb2285b8cc3f7a5844f2df6e11da9bf87a2ded383f"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity",
-      "sha256": "67689aebe2ac74bceb98833794dec7b998757d47c73b7a52697a89789bd381de"
+      "sha256": "97a7bfb9ec437c5931e288ba8a635f6838ad12b51ca04447fe8c40481fc7c6a2",
+      "authoringSha256": "67689aebe2ac74bceb98833794dec7b998757d47c73b7a52697a89789bd381de"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity",
-      "sha256": "341405b07656278a25afc2cefc3a8d15e567e0aca5e6073a70c1cfb1e3227f22"
+      "sha256": "237c42e7460f753dad428fc6a52a175c48e85a462acf7eec70e654840c57a46f",
+      "authoringSha256": "341405b07656278a25afc2cefc3a8d15e567e0aca5e6073a70c1cfb1e3227f22"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity",
-      "sha256": "f26ad8ac66ee822cfab6506bad035ad2103b939086b6a87051680f1d507e67cf"
+      "sha256": "7a79a85bc46a80489a62838e70a80f7bf90086836f2a5c828b0b7ec47530693a",
+      "authoringSha256": "f26ad8ac66ee822cfab6506bad035ad2103b939086b6a87051680f1d507e67cf"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity",
-      "sha256": "e39df0d0a9e4aec4b5e78f94a7f4a3106e65794999ddbcecee7ca2dc1245e09c"
+      "sha256": "82254ebd51a288a14af09d5b15cdbf7150cdabc1938daead04a1cd4419bd0808",
+      "authoringSha256": "e39df0d0a9e4aec4b5e78f94a7f4a3106e65794999ddbcecee7ca2dc1245e09c"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity",
-      "sha256": "7476164776cfa629185b7fd0db26f463507e98c3d9fe9a546b6fc89b8362dcf4"
+      "sha256": "ab9a5656b3914249c0e806b2ca7f8349f38eb2b51e5910b182148e0effc4376d",
+      "authoringSha256": "7476164776cfa629185b7fd0db26f463507e98c3d9fe9a546b6fc89b8362dcf4"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity",
-      "sha256": "4aaa54006079b8a78bee719dd1d620b40abb3a2842a735406f44291a46595c41"
+      "sha256": "2d79de75b0f4ffe3e0475337d140c52c24451ba2d7d23b2142daff275e781f4e",
+      "authoringSha256": "4aaa54006079b8a78bee719dd1d620b40abb3a2842a735406f44291a46595c41"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity",
-      "sha256": "be1a5f115ee3a2e5293a5d8ea95dc1bfb1553e954126f24865426e2402669593"
+      "sha256": "ee4ae9adad47b9f739e13e939febdb9f7e43b558c2d7227cb17375e410a314e2",
+      "authoringSha256": "be1a5f115ee3a2e5293a5d8ea95dc1bfb1553e954126f24865426e2402669593"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity",
-      "sha256": "7c8678dbf5e23edf5ce76553894d8c164ad9acffbb41a51baaf3ff55887c667a"
+      "sha256": "fcb878e08ccd7df8361b9cb1a0c86fcf9d72547c3904b1d9247bd6bc9d5243d1",
+      "authoringSha256": "7c8678dbf5e23edf5ce76553894d8c164ad9acffbb41a51baaf3ff55887c667a"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs",
-      "sha256": "b1d8efd3d081ff6200330d72c7969f5a619c5c18151dff73c543b76285375db8"
+      "sha256": "3c61167c0eab6c7bd295c2ff7c36777c89ffcbc453af8d6580236a6aabc0757d",
+      "authoringSha256": "b1d8efd3d081ff6200330d72c7969f5a619c5c18151dff73c543b76285375db8"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs",
-      "sha256": "0ad01c7d86c6103f9977d859549af2af1379e572d2ec6d58f9471b7b0f1de5a3"
+      "sha256": "99c88ada7f9cda09c0bb6d6deaaabc3b66845550f61d4fb41745005761cff298",
+      "authoringSha256": "0ad01c7d86c6103f9977d859549af2af1379e572d2ec6d58f9471b7b0f1de5a3"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs",
-      "sha256": "7f0edbd13f94988f7442e45cd257a209ebc456c53c94eb35d3fda39813245dee"
+      "sha256": "e89e3ed0038c306fe7e4dcdaaf9d7931097c32493b34622877e4d53a6eef03a5",
+      "authoringSha256": "7f0edbd13f94988f7442e45cd257a209ebc456c53c94eb35d3fda39813245dee"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs",
-      "sha256": "a56cc95f9203f642d07c72026491043b49f31fab89420cd3a4e34652dfa47a8c"
+      "sha256": "31ac73ac6a23a98c7e8ea480aa09c5abdb8ac8598a3de68b6933df7ea16c3d66",
+      "authoringSha256": "a56cc95f9203f642d07c72026491043b49f31fab89420cd3a4e34652dfa47a8c"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs",
-      "sha256": "e57de8b625bc3598d1e93a5831c91aa6d47661f7c221336983489f8dae86902c"
+      "sha256": "840c386820d5037e1f4cfc85a34b7348581566704076ca304be72ab672c70787",
+      "authoringSha256": "e57de8b625bc3598d1e93a5831c91aa6d47661f7c221336983489f8dae86902c"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs",
-      "sha256": "907922faeb2a8889662e779b4a3be0044a13d6485a0c49c007c5d6f693f6fd8d"
+      "sha256": "76575f9a696f7400c5a3c78e7b5b5ee540de2dacf691dcd322f63be00c4520fa",
+      "authoringSha256": "907922faeb2a8889662e779b4a3be0044a13d6485a0c49c007c5d6f693f6fd8d"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs",
-      "sha256": "9aff51d0bf3dc3a31a30a738667818f98b18d76683e2544c152dcc73bd0c7ba3"
+      "sha256": "14479ee971d6b8eceae82e9eb9c03389df611a825051df6e2b10e53a60ae1c9f",
+      "authoringSha256": "9aff51d0bf3dc3a31a30a738667818f98b18d76683e2544c152dcc73bd0c7ba3"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs",
-      "sha256": "89f7702e409ef6cd795fab824b24bd48b98401e9f74240c13e06a95ccc08158f"
+      "sha256": "e163035bc080b98e90ef130abc969e8cefa32a630783650e68e724316b359332",
+      "authoringSha256": "89f7702e409ef6cd795fab824b24bd48b98401e9f74240c13e06a95ccc08158f"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs",
-      "sha256": "5e1a229404d5a5ed0fbe6b7481f0337f2fc1fe8352a1cb70477de2c0af81fffa"
+      "sha256": "6d5b1670e18606f4b4026828ea61470638cd9bf0a12891a90b55c046549f7444",
+      "authoringSha256": "5e1a229404d5a5ed0fbe6b7481f0337f2fc1fe8352a1cb70477de2c0af81fffa"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs",
-      "sha256": "e2476baeb79ace4b0c34a6c5c54a99e3d9a4918099d1e5c533508e37e8d46258"
+      "sha256": "ff61da5bf98d6b797aa6c99d0ed59928153271dc71f63b2deb3bdb7715e4d5a9",
+      "authoringSha256": "e2476baeb79ace4b0c34a6c5c54a99e3d9a4918099d1e5c533508e37e8d46258"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs",
-      "sha256": "7258b6c0032cbf8294200681873dfb0cc3cdf3077f9413e911f076e98cfaa110"
+      "sha256": "ede5388968001b879abe9bfeac8d87ed0905e301a4a789a301726257685513a3",
+      "authoringSha256": "7258b6c0032cbf8294200681873dfb0cc3cdf3077f9413e911f076e98cfaa110"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs",
-      "sha256": "01d6e4577dee58c35c32af7f9a9105246cf272713c08d158238b6d82f6a07a78"
+      "sha256": "4d13b6a4af5b35897cf73e0164d4069e2c1f5328ecb53b0d6713b22546b0624f",
+      "authoringSha256": "01d6e4577dee58c35c32af7f9a9105246cf272713c08d158238b6d82f6a07a78"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs",
-      "sha256": "bba0def6229dc39be9abf191e58851cc00bbca046dfd5d2cf112fec3789d3ec2"
+      "sha256": "c9e6d50712b15ece9a7874026c2085b26c90f52d85de10202e8b36e3fea4f7e9",
+      "authoringSha256": "bba0def6229dc39be9abf191e58851cc00bbca046dfd5d2cf112fec3789d3ec2"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs",
-      "sha256": "0b13bfc05be73bf67756d49644decb0f776015265cdc4418aa043974a56298e8"
+      "sha256": "6d2e0e4fd557486ff1652ff2a6404312dc49ada59632563fc98c9b95d85fff7a",
+      "authoringSha256": "0b13bfc05be73bf67756d49644decb0f776015265cdc4418aa043974a56298e8"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs",
-      "sha256": "391a52b353f2aeff13bf4da77bf07a217b4af0c213f0fdce006b054d13497213"
+      "sha256": "96d0c388d9f8742b63a924114947d3d6737f2dc558b527cd4e9bf88ad36f1631",
+      "authoringSha256": "391a52b353f2aeff13bf4da77bf07a217b4af0c213f0fdce006b054d13497213"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs",
-      "sha256": "83a23db45dad56ef48bceba43505ae52274a1676d997480774aa9cd33d6a837b"
+      "sha256": "b31384607c78e1b71c8773b0162f9e8c4c299d7f7baaab04ccd773039c79861a",
+      "authoringSha256": "83a23db45dad56ef48bceba43505ae52274a1676d997480774aa9cd33d6a837b"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs",
-      "sha256": "b868c62f876e92818c8b6f0a215abf8162059a509661ffaa609f580c23f99211"
+      "sha256": "f4b25e169766fad6769f11526dbaaffb259731c2a2e5279bbee8ed4152384036",
+      "authoringSha256": "b868c62f876e92818c8b6f0a215abf8162059a509661ffaa609f580c23f99211"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs",
-      "sha256": "80b7dfd7560715caaaeca1b449634cce4b7487c39c71a58b63e18be4994cf6c8"
+      "sha256": "03933725d53aa925c5f55f7c831a88ceb28b78bc38aff5736bc06e2716e6d7ca",
+      "authoringSha256": "80b7dfd7560715caaaeca1b449634cce4b7487c39c71a58b63e18be4994cf6c8"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs",
-      "sha256": "9c62de4076d80230fa9b37af89c51cc5c1432e0868ce22db50101bbc7c61e520"
+      "sha256": "f6c9a606954beebc086b45d6997f89de40a29fcc35584fbbd2818d4a7a7e3c67",
+      "authoringSha256": "9c62de4076d80230fa9b37af89c51cc5c1432e0868ce22db50101bbc7c61e520"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs",
-      "sha256": "4adf8032f66749939a2d1b35758854ca8185f3e045a9172da31e1b3496d6125d"
+      "sha256": "3a61c0f7256d8fbeb739f25e5c1627dcf6b6517158eef38c5fa450c688201ffa",
+      "authoringSha256": "4adf8032f66749939a2d1b35758854ca8185f3e045a9172da31e1b3496d6125d"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs",
-      "sha256": "e75863667692e368fa6d6dfd1a8d0c770f3a9c9c8419b899eccd582eecb88c39"
+      "sha256": "d9fbdf75fd2e62d887150ce6f29fefb2d32b199588649c835567fd3aa97bb82b",
+      "authoringSha256": "e75863667692e368fa6d6dfd1a8d0c770f3a9c9c8419b899eccd582eecb88c39"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs",
-      "sha256": "f100ed955a203117cfd33c8513e55c0d78cfd04e38e701906701edf08b4230c4"
+      "sha256": "db98aef0ef8c1ad063aee3fd316c6d7137a783371003c0339ba9ffec25157a17",
+      "authoringSha256": "f100ed955a203117cfd33c8513e55c0d78cfd04e38e701906701edf08b4230c4"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs",
-      "sha256": "adcf5eef17e10547976e9570985e600cea831643e6125b626631582e4e547f3b"
+      "sha256": "b59f9d1c7fddffaeec2b2523c338cc32d4c40c18fa8dd7f540b6e3b22a3f36e5",
+      "authoringSha256": "adcf5eef17e10547976e9570985e600cea831643e6125b626631582e4e547f3b"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs",
-      "sha256": "8928253ecaca3d642f747afdff0a75417ccb9822ab35a147436329ad3d45d415"
+      "sha256": "07e23509a862c25cf32cc3a84afeabcd8d79f6662f680405654aa1d905d9fbe8",
+      "authoringSha256": "8928253ecaca3d642f747afdff0a75417ccb9822ab35a147436329ad3d45d415"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs",
-      "sha256": "0617870c1b903820eefeeef09a951dc56d9b16bfd75793fd0643891ee5fdd11d"
+      "sha256": "cd8f39066cf3c6835e1b61503b06ef7a3fd409437baa2e5569ec27a02ea408c4",
+      "authoringSha256": "0617870c1b903820eefeeef09a951dc56d9b16bfd75793fd0643891ee5fdd11d"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs",
-      "sha256": "b0da872056634d738957e518bbaeeab7349aed638e6790bb3ef7a93adf082944"
+      "sha256": "e9c85049e2db34237663df431af7685b6c527554aadae03d01e5b999702a7948",
+      "authoringSha256": "b0da872056634d738957e518bbaeeab7349aed638e6790bb3ef7a93adf082944"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs",
-      "sha256": "3fce91d7ac1f8b4935d01c1044ed68f7d5211d2356ac6c4ece2566a0e82f38b5"
+      "sha256": "6e93b8e1eb4ff438c24e35ab0bf80b2ee4ab65a2d8c10f93f387e64f415d425b",
+      "authoringSha256": "3fce91d7ac1f8b4935d01c1044ed68f7d5211d2356ac6c4ece2566a0e82f38b5"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs",
-      "sha256": "625472feeefebdd37fe8585069b5fb00db8b0fe662e7b5aab2fe7074972f9638"
+      "sha256": "d2f2ab0090772da36b7759783de6fbf225dad51fc40d4d7b06f82e6a8be27d2f",
+      "authoringSha256": "625472feeefebdd37fe8585069b5fb00db8b0fe662e7b5aab2fe7074972f9638"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs",
-      "sha256": "fd8c8af9f8982cb3507800e70f8497b5a081a70c8391c066d6c6bb3c612f33da"
+      "sha256": "b7ab939290ed6e64ef779d91925fa44edea787a5fd73bfd784466f22f53ceb6c",
+      "authoringSha256": "fd8c8af9f8982cb3507800e70f8497b5a081a70c8391c066d6c6bb3c612f33da"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs",
-      "sha256": "945ccb91d2eb3042d235ce0c5ce49250cc2a4f70c45fdfdfbbacddb63e4d4f13"
+      "sha256": "4e934def3bee0a2806572824cb7007efcb05f9b1082a24400e35d4de209d8506",
+      "authoringSha256": "945ccb91d2eb3042d235ce0c5ce49250cc2a4f70c45fdfdfbbacddb63e4d4f13"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs",
-      "sha256": "e7c100c9a978359968d1e22f192bdf49741fd87c2f3f46195e86f9413998f995"
+      "sha256": "3e9b5d4c3ccaa63663098964a33bd3640e4e67e61e4dda00dc90dc047d67f339",
+      "authoringSha256": "e7c100c9a978359968d1e22f192bdf49741fd87c2f3f46195e86f9413998f995"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs",
-      "sha256": "9d884e810c94a4824b78b3da58801df126e748f51bbb906b103f7e60b9e69cb6"
+      "sha256": "6162673abf5de78d60b478dc1572b92b6108162390f4b37886afa52f66a7a613",
+      "authoringSha256": "9d884e810c94a4824b78b3da58801df126e748f51bbb906b103f7e60b9e69cb6"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs",
-      "sha256": "2bfe8ee0d2c0b9e9b7301a4c10bb0de2c9d2acd6e181ea9ccf573f1eedb653de"
+      "sha256": "921eff16d54ea819c0741acd9cb3d0f53d79d42d593aab7cad6f0aa93f20a16c",
+      "authoringSha256": "2bfe8ee0d2c0b9e9b7301a4c10bb0de2c9d2acd6e181ea9ccf573f1eedb653de"
     },
     {
       "path": "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs",
-      "sha256": "89cca285cff0a515721dcf257dcfc9c5c508547724a470e79a1b8828ae7c2f4c"
+      "sha256": "71b9808aca4e1c6ba124152a48c4eea1e10fc0ff7a66de5ef2ab26561123cbfe",
+      "authoringSha256": "89cca285cff0a515721dcf257dcfc9c5c508547724a470e79a1b8828ae7c2f4c"
     }
-  ]
+  ],
+  "hashFormat": "sha256 hashes exact Git blob bytes. authoringSha256 hashes the original authoring-file bytes before Git line-ending normalization."
 }
